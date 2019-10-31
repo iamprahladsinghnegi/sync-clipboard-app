@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654965544385",
+    "firebase_url": "https://clipboard-sync-a5c0d.firebaseio.com",
+    "project_id": "clipboard-sync-a5c0d",
+    "storage_bucket": "clipboard-sync-a5c0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654965544385:android:2283469c0a8921ab618b40",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654965544385-a8lb066c236g8l1c7no6pvs5m1rauqvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0yG1_w8NuaHQcscETJf3gVlammMISNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654965544385-a8lb066c236g8l1c7no6pvs5m1rauqvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
